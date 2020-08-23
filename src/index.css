@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  font-family: 'Alata', sans-serif;
+}
+
+/* backgrounds */
+
+.bgGrad{
+  background: linear-gradient(to right, #8e2de2, #4a00e0);
+}
+
+/* texts */
+
+.purpletxt{
+  color: #8e2de2;
+}
+
+/* category card */
+
+.ccard{
+  border-bottom: 5px solid #8e2de2;
+}
+
+.ccard:hover{
+  border-bottom: 5px solid red;
+}
+
+.ccardimg{
+  height: 250px;
+}
+
+/* post card */
+
+.pcardimg{
+  height: 250px;
+}
+
