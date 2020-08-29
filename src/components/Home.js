@@ -23,7 +23,7 @@ import CatCard from './CatCard';
             return (
                 <div className="row m-0 p-0">
                     <div className="col-12 mb-4">
-                        <div className="text-center h3"><i class="fa fa-motorcycle mr-3" aria-hidden="true"></i>Bikes To Explore<i class="fa fa-motorcycle ml-3" aria-hidden="true"></i></div>
+                        <div className="text-center h3"><i className="fa fa-motorcycle mr-3" aria-hidden="true"></i>Bikes To Explore<i className="fa fa-motorcycle ml-3" aria-hidden="true"></i></div>
                     </div>
                     {
                         categoryList.map((category)=>(
